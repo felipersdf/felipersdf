@@ -19,8 +19,8 @@
 </h3>
 
  - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, Node.js, Java
- - :purple_heart: In love with ReactJS
- - 📚 Currently learning Gatsby
+ - :purple_heart: In love with ReactJS & Typescript
+ - 📚 Currently learning React Native
  - :video_game: In my free time I usually play games, watch movies and series and play a bit more.
 <br>
 
