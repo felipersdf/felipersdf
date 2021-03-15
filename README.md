@@ -8,9 +8,9 @@
   <a href="https://www.linkedin.com/in/felipersdf/"> 
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipersdf/" alt="Linkedin badge" />
   &nbsp; 
-  <a href="mailto:felipefsr07@gmail.com"> 
+  <!-- <a href="mailto:felipefsr07@gmail.com"> 
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:felipefsr07@gmail.com" alt="Gmail badge" />
-  </a>
+  </a> -->
 </p>
 
 
@@ -18,7 +18,7 @@
  Hello! 👋 Welcome to my profile
 </h3>
 
- - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, Node.js, Java
+ - 📌 Skills: HTML, CSS, JavaScript, Node.js, Java
  - :purple_heart: In love with ReactJS & Typescript
  - 📚 Currently learning React Native
  - :video_game: In my free time I usually play games, watch movies and series and play a bit more.
