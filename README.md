@@ -8,11 +8,12 @@
   <a href="https://www.linkedin.com/in/felipersdf/"> 
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipersdf/" alt="Linkedin badge" />
   &nbsp; 
-  <!-- <a href="mailto:felipefsr07@gmail.com"> 
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:felipefsr07@gmail.com" alt="Gmail badge" />
-  </a> -->
 </p>
-
+<div>
+  <a href="https://github.com/felipersdf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipersdf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipersdf&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <h3 align="center">
  Hello! 👋 Welcome to my profile
