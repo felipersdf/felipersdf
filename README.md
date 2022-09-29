@@ -2,9 +2,6 @@
   <h1 align="center"> 
  Hello! 👋 Call me Felipe.	</h1>
 <p align="center"> 
-  <a href="https://github.com/felipersdf"> 
-    <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/felipersdf" alt="Github badge" />
-  </a>
   &nbsp; 
   <a href="https://www.linkedin.com/in/felipersdf/"> 
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipersdf/" alt="Linkedin badge" />
