@@ -1,6 +1,6 @@
 <br>
   <h1 align="center"> 
- Hello! 👋 Call me Felipe.	</h1>
+ Hello! <img src="https://github.com/Adrianogba/adrianogba/blob/main/Hi.gif" width="30px"> I'm Felipe.	</h1>
 <p align="center"> 
   &nbsp; 
   <a href="https://www.linkedin.com/in/felipersdf/"> 
